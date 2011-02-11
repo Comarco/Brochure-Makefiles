@@ -8,37 +8,52 @@ projects[drupal][version] = "6.20"
 projects[brochure-profile][type] = profile
 projects[brochure-profile][directory_name] = brochure
 projects[brochure-profile][download][type] = git
-projects[brochure-profile][download][url] = git://git.koumbit.net/drupal/contrib/features/brochure-profile.git
+projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-Makefiles.git
 
 ; contrib dependencies
 projects[adminrole][subdir] = contrib
 projects[admin_menu][subdir] = contrib
+projects[bones][subdir] = contrib
+projects[boxes][subdir] = contrib
+projects[bueditor][subdir] = contrib
 projects[cck][subdir] = contrib
 projects[custom_pagers] = contrib
+projects[ctools][subdir] = contrib
+projects[devel][subdir] = "contrib"
+projects[diff][subdir] = "contrib"
 projects[features][subdir] = contrib
 projects[filefield][subdir] = contrib
-projects[imagefield][subdir] = contrib
-projects[link][subdir] = contrib
-projects[ctools][subdir] = contrib
 projects[filefield_paths][subdir] = contrib
 projects[imageapi][subdir] = contrib
 projects[imagecache][subdir] = contrib
 projects[imagecache_actions][subdir] = contrib
 projects[imagecache_effects][subdir] = contrib
-projects[jquery_ui][subdir] = contrib
-projects[bueditor][subdir] = contrib
+projects[imagefield][subdir] = contrib
+projects[image_fupload][subdir] = "contrib"
+projects[image_fupload][version] = "3.0-rc2"
+projects[image_fupload][patch][] = "http://drupal.org/files/issues/image_fupload-swfupload_as_library_1.patch"
 projects[imce][subdir] = contrib
+projects[install_profile_api][subdir] = "contrib"
+projects[jquery_ui][subdir] = contrib
+projects[journal][subdir] = "contrib"
 projects[libraries][subdir] = contrib
 projects[lightbox2][subdir] = contrib
+projects[link][subdir] = contrib
+projects[migrate][subdir] = "contrib"
+projects[module_builder][subdir] = "contrib"
+projects[openidadmin][subdir] = "contrib"
 projects[panels][subdir] = contrib
 projects[prepopulate][subdir] = contrib
+projects[schema][subdir] = "contrib"
 projects[skinr][subdir] = contrib
 projects[strongarm][subdir] = contrib
 projects[superfish][subdir] = contrib
 projects[sweaver][subdir] = contrib
 projects[taxonomy_export][subdir] = contrib
 projects[token][subdir] = contrib
+projects[tw][subdir] = "contrib"
 projects[views][subdir] = contrib
+projects[views_bulk_operations][subdir] = contrib
 projects[views_slideshow][subdir] = contrib
 
 
@@ -98,3 +113,6 @@ libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jqu
 ; ^--- Libraries API (feature request)
 ;      http://drupal.org/node/489140
 
+libraries[swfupload][download][type] = "get"
+libraries[swfupload][download][url] = "http://swfupload.googlecode.com/files/SWFUpload%20v2.2.0.1%20Core.zip"
+libraries[swfupload][directory_name] = "swfupload"
