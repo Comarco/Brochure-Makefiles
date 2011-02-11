@@ -101,6 +101,11 @@ projects[clean][version] = "1.2"
 
 projects[zen][version] = "2.0"
 
+projects[brochure_basic][type] = theme
+projects[brochure_basic][download][type] = git
+projects[brochure_basic][download][url] = git://github.com/Comarco/Brochure-Theme.git
+projects[brochure_basic][directory_name] = brochure_basic
+
 ;****************************************
 ; Libraries elsewhere
 ;****************************************
