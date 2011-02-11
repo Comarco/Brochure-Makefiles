@@ -9,7 +9,7 @@ projects[brochure-profile][type] = profile
 projects[brochure-profile][directory_name] = brochure
 projects[brochure-profile][download][branch] = master
 projects[brochure-profile][download][type] = git
-projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-Makefiles.git
+projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-profile.git
 
 ; contrib dependencies
 projects[adminrole][subdir] = contrib
