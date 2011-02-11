@@ -14,6 +14,7 @@ projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-pr
 ; contrib dependencies
 projects[adminrole][subdir] = contrib
 projects[admin_menu][subdir] = contrib
+projects[autoload][subdir] = contrib
 projects[bones][subdir] = contrib
 projects[boxes][subdir] = contrib
 projects[bueditor][subdir] = contrib
@@ -22,6 +23,7 @@ projects[context][subdir] = contrib
 projects[custom_pagers][subdir] = "contrib"
 projects[custom_pagers][version] = "1.0-beta2"
 projects[ctools][subdir] = contrib
+projects[dbtng][subdir] = contrib
 projects[devel][subdir] = "contrib"
 projects[diff][subdir] = "contrib"
 projects[features][subdir] = contrib
