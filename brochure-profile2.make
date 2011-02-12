@@ -98,8 +98,7 @@ projects[views_slideshow][subdir] = contrib
 projects[features-brochure][subdir] = features
 projects[features-brochure][type] = module
 projects[features-brochure][download][type] = git
-projects[features-brochure][download][branch] = brochure-dev2
-
+;projects[features-brochure][download][branch] = brochure-dev2
 projects[features-brochure][download][url] = git://github.com/Comarco/Brochure-Distro.git
 projects[features-brochure][directory_name] = "features-brochure"
 
