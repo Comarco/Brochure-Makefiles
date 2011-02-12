@@ -56,6 +56,7 @@ projects[panels][subdir] = contrib
 projects[prepopulate][subdir] = contrib
 projects[schema][subdir] = "contrib"
 projects[skinr][subdir] = contrib
+projects[skinr][version] = 2.x-dev
 projects[strongarm][subdir] = contrib
 projects[superfish][subdir] = contrib
 projects[sweaver][subdir] = contrib
