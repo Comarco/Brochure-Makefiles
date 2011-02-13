@@ -8,7 +8,7 @@ projects[drupal][version] = "6.20"
 projects[brochure-profile][type] = profile
 projects[brochure-profile][directory_name] = brochure
 ;projects[brochure-profile][download][tag] = pre-dev4
-projects[brochure-profile][download][branch] = pre-dev4
+projects[brochure-profile][download][branch] = dev4
 projects[brochure-profile][download][type] = git
 projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-profile.git
 
