@@ -7,7 +7,8 @@ projects[drupal][version] = "6.20"
 ; brochure profile itself
 projects[brochure-profile][type] = profile
 projects[brochure-profile][directory_name] = brochure
-projects[brochure-profile][download][branch] = master
+;projects[brochure-profile][download][tag] = pre-dev4
+projects[brochure-profile][download][branch] = pre-dev4
 projects[brochure-profile][download][type] = git
 projects[brochure-profile][download][url] = git://github.com/Comarco/Brochure-profile.git
 
@@ -28,6 +29,7 @@ projects[date][subdir] = contrib
 projects[dbtng][subdir] = contrib
 projects[devel][subdir] = "contrib"
 projects[diff][subdir] = "contrib"
+projects[dialog][subdir] = contrib
 projects[features][subdir] = contrib
 projects[filefield][subdir] = contrib
 projects[filefield_paths][subdir] = contrib
@@ -101,7 +103,8 @@ projects[views_slideshow][subdir] = contrib
 projects[features-brochure][subdir] = features
 projects[features-brochure][type] = module
 projects[features-brochure][download][type] = git
-;projects[features-brochure][download][branch] = brochure-dev2
+;projects[features-brochure][download][tag] = pre-dev4
+projects[features-brochure][download][branch] = pre-dev4
 projects[features-brochure][download][url] = git://github.com/Comarco/Brochure-Distro.git
 projects[features-brochure][directory_name] = "features-brochure"
 
