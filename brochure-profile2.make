@@ -101,7 +101,7 @@ projects[views_slideshow][subdir] = contrib
 projects[features-brochure][subdir] = features
 projects[features-brochure][type] = module
 projects[features-brochure][download][type] = git
-;projects[features-brochure][download][tag] = pre-dev4
+projects[features-brochure][download][tag] = pre-dev4
 projects[features-brochure][download][url] = git://github.com/Comarco/Brochure-Distro.git
 projects[features-brochure][directory_name] = "features-brochure"
 
@@ -117,6 +117,7 @@ projects[zen][version] = "2.0"
 
 projects[brochure_basic][type] = theme
 projects[brochure_basic][download][type] = git
+projects[brochure_basic][download][tag] = pre-dev4
 projects[brochure_basic][download][url] = git://github.com/Comarco/Brochure-Theme.git
 projects[brochure_basic][directory_name] = brochure_basic
 
