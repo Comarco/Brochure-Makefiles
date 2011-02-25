@@ -9,7 +9,7 @@ projects[brochure-profile][type] = profile
 projects[brochure-profile][directory_name] = brochure
 projects[brochure-profile][download][tag] = pre-dev4
 projects[brochure-profile][download][type] = git
-projects[brochure-profile][download][url] = git://github.com/ergonlogic/Brochure-profile.git
+projects[brochure-profile][download][url] = git://github.com/comarco/Brochure-profile.git
 
 ; profiler library
 libraries[profiler][download][type] = "get"
