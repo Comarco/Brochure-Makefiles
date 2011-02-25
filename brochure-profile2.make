@@ -14,7 +14,7 @@ projects[brochure-profile][download][url] = git://github.com/ergonlogic/Brochure
 ; profiler library
 libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-6.x-2.0-beta1.tar.gz"
-libraries[profiler][destination] = "../../profiles/brochure/"
+libraries[profiler][destination] = "../../profiles/brochure/libraries"
 
 ; contrib dependencies
 projects[adminrole][subdir] = contrib
