@@ -11,6 +11,10 @@ projects[brochure-profile][download][tag] = pre-dev4
 projects[brochure-profile][download][type] = git
 projects[brochure-profile][download][url] = git://github.com/ergonlogic/Brochure-profile.git
 
+; profiler library
+libraries[profiler][download][type] = "get"
+libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-6.x-2.0-beta1.tar.gz"
+
 ; contrib dependencies
 projects[adminrole][subdir] = contrib
 projects[admin_menu][subdir] = contrib
