@@ -60,6 +60,7 @@ projects[l10n_update][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[lightbox2][subdir] = contrib
 projects[link][subdir] = contrib
+projects[masquerade][subdir] = "contrib"
 projects[migrate][subdir] = "contrib"
 projects[module_builder][subdir] = "contrib"
 projects[openidadmin][subdir] = "contrib"
