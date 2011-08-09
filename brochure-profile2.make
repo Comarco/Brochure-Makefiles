@@ -1,8 +1,12 @@
+;
+; Version arbitraire 4.1
+;
+
 core = 6.x
 api = 2
 
 projects[drupal][type] = "core"
-projects[drupal][version] = "6.20"
+projects[drupal][version] = "6.22"
 
 ; brochure profile itself
 projects[brochure-profile][type] = profile
@@ -124,7 +128,7 @@ projects[adaptivetheme_mobile][version] = "1.0-beta2"
 
 projects[clean][version] = "1.2"
 
-projects[zen][version] = "2.0"
+projects[zen][version] = "2.1"
 
 projects[brochure_basic][type] = theme
 projects[brochure_basic][download][type] = git
